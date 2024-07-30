@@ -15,7 +15,9 @@ git clone git@github.com:Kvr-10/Breaking-Ball-Game.git
 - Locate the <strong>Breaking ball.jar</strong> file in the directory.
 - <strong>Double-click on `Breaking_ball.jar` to start the game.</strong>
 <h3>Alternative</h3> 
--you can directly download the JAR file from the [Releases page] (https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest) and run it.
+-you can directly download the JAR file from the 
+[Releases page](https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest) 
+and run it.
 <h2>Prerequisites</h2>
 Ensure you have Java installed on your system. You can download and install the latest version of Java from the official website.
 <h2>Game Overview</h2>
