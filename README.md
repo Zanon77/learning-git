@@ -1,3 +1,4 @@
+[Releases page](https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest)
 <h1>Breaking Ball Game</h1>
 Welcome to the Breaking Ball Game, an exciting and engaging game developed in Java!
 
