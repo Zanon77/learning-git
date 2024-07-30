@@ -1,4 +1,3 @@
-[Releases page](https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest)
 <h1>Breaking Ball Game</h1>
 Welcome to the Breaking Ball Game, an exciting and engaging game developed in Java!
 
@@ -8,7 +7,7 @@ Welcome to the Breaking Ball Game, an exciting and engaging game developed in Ja
 git clone git@github.com:Kvr-10/Breaking-Ball-Game.git
 ```
 <h3>Navigate to the Artifacts Directory:</h3>
-- After cloning the repository, navigate to the following path:
+- After cloning the repository, navigate to the following path:<br>
   ```
   Breaking-Ball-Game/out/artifacts/Breaking_ball_jar/Breaking_ball.jar
   ```
@@ -16,7 +15,7 @@ git clone git@github.com:Kvr-10/Breaking-Ball-Game.git
 - Locate the <strong>Breaking ball.jar</strong> file in the directory.
 - <strong>Double-click on `Breaking_ball.jar` to start the game.</strong>
 <h3>Alternative</h3> 
--you can directly download the JAR file from the Releases page and run it.
+-you can directly download the JAR file from the [Releases page](https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest) and run it.
 <h2>Prerequisites</h2>
 Ensure you have Java installed on your system. You can download and install the latest version of Java from the official website.
 <h2>Game Overview</h2>
