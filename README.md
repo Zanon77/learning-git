@@ -21,7 +21,7 @@ Breaking-Ball-Game/out/artifacts/Breaking_ball_jar/Breaking_ball.jar
 You can directly download the JAR file from the [Releases page](https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest) and run it.
 
 ## Prerequisites
-Ensure you have Java installed on your system. You can download and install the latest version of Java from the official website.
+Ensure you have Java installed on your system. You can download and install the latest version of Java from the [official website](https://www.java.com/en/).
 
 ## Game Overview
 Breaking Ball is a thrilling game where you control a paddle to break bricks by bouncing a ball. The objective is to break all the bricks without letting the ball fall off the screen.
