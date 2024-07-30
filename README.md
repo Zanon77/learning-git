@@ -19,7 +19,7 @@ git clone git@github.com:Kvr-10/Breaking-Ball-Game.git
 [Releases page](https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest) 
 and run it.
 <br>
-## Alternative
+## Alternative <br>
 You can directly download the JAR file from the [Releases page](https://github.com/Kvr-10/Breaking-Ball-Game/releases/latest) and run it.
 
 <h2>Prerequisites</h2>
